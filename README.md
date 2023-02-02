@@ -1,4 +1,4 @@
-Web Scrapper Project 
+WEB SCRAPER PROJECT
 
 WHAT APPLICATION DOES?
 - This python program is a client side HTTP application that takes urls from command line and creates a IPV4 socket connection depending upon wether the url supplied was http or https, 
